@@ -5,6 +5,12 @@ All notable changes to this project are documented in this file.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.1] - 2026-08-23                                                                                                                                  
+                                                                                                                                                        
+### Fixed                                                                                                                                                
+                                                                                                                                                        
+- `0.1.0` is permanently stuck as a failed build in JitPack's cache (keyed by version string, not by repo content) - do not use it.    
+
 ## [0.1.0] - 2026-08-23
 
 ### Added
