@@ -1,7 +1,7 @@
 # heartbeat4j
 
 [![Build](https://github.com/nomad4tech/heartbeat4j/actions/workflows/publish.yml/badge.svg)](https://github.com/nomad4tech/heartbeat4j/actions/workflows/publish.yml)
-[![Maven](https://img.shields.io/badge/maven-0.1.0-blue)](https://github.com/nomad4tech/heartbeat4j/packages)
+[![Maven](https://img.shields.io/badge/maven-0.1.1-blue)](https://github.com/nomad4tech/heartbeat4j/packages)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A tiny, framework-agnostic library for tracking application health: a
@@ -39,7 +39,7 @@ Not published to Maven Central. Published to GitHub Packages on every
 <dependency>
     <groupId>tech.nomad4</groupId>
     <artifactId>heartbeat4j</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 
@@ -160,7 +160,7 @@ No token or credentials required. Add the repository and use the JitPack
 <dependency>
     <groupId>com.github.nomad4tech</groupId>
     <artifactId>heartbeat4j</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 
