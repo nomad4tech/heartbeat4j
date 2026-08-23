@@ -1,4 +1,4 @@
-# heartbeat4j
+# <img src="assets/heartbeat4j-icon.svg" width="64" align="absmiddle" alt=""> heartbeat4j
 
 [![Build](https://github.com/nomad4tech/heartbeat4j/actions/workflows/publish.yml/badge.svg)](https://github.com/nomad4tech/heartbeat4j/actions/workflows/publish.yml)
 [![Maven](https://img.shields.io/badge/maven-0.1.1-blue)](https://github.com/nomad4tech/heartbeat4j/packages)
@@ -172,6 +172,18 @@ No token or credentials required. Add the repository and use the JitPack
   locking. Each process tracks its own problems.
 - Java 17 required. Not on Maven Central - GitHub Packages (token
   required) or JitPack (no token) only.
+
+## Branding
+
+Building an app on top of heartbeat4j? Link back to it with the mark:
+
+[![heartbeat4j](https://raw.githubusercontent.com/nomad4tech/heartbeat4j/main/assets/heartbeat4j-icon.svg)](https://github.com/nomad4tech/heartbeat4j)
+
+```md
+[![heartbeat4j](https://raw.githubusercontent.com/nomad4tech/heartbeat4j/main/assets/heartbeat4j-icon.svg)](https://github.com/nomad4tech/heartbeat4j)
+```
+
+Logo, favicon, and social preview images are in [`assets/`](assets/).
 
 ## License
 
